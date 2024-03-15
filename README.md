@@ -23,8 +23,8 @@ Before you begin, make sure you have the following:
 3. Cut the "dokan" folder.
 4. Paste the "dokan" folder into your child theme's root directory.
 
-## Adding YouTube Video Tutorial
-For a visual guide on these steps, refer to the following YouTube video:
+## YouTube Video Tutorial
+For a visual guide :
 [Watch Video Tutorial](https://www.youtube.com/watch?v=yTrBJ70Zv8o)
 
 ## Support
