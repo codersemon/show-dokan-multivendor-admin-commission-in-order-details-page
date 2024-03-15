@@ -25,7 +25,7 @@ Before you begin, make sure you have the following:
 
 ## Adding YouTube Video Tutorial
 For a visual guide on these steps, refer to the following YouTube video:
-[Insert YouTube Video Link Here]
+[Watch Video Tutorial](https://www.youtube.com/watch?v=yTrBJ70Zv8o)
 
 ## Support
 For any questions or assistance, please contact:
