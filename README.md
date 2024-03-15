@@ -28,4 +28,7 @@ For a visual guide on these steps, refer to the following YouTube video:
 [Insert YouTube Video Link Here]
 
 ## Support
-For any questions or assistance, please contact [Your Contact Information].
+For any questions or assistance, please contact:
+
+- Email: [contact@emonkhan.me](mailto:contact@emonkhan.me)
+- Website: [https://emonkhan.me](https://emonkhan.me)
